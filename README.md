@@ -1,8 +1,8 @@
 # SainiUtils
 
-### description of this package.
+### Description of this package.
 
-This is a tresure of methods which is used by a developer very frequently. All the methods are **COOL** and **AMAZING** just like a coder.
+This is a treasure of methods which is used by a developer very frequently. All the methods are **COOL** and **AMAZING** just like a coder.
 List of the helping methods are: - 
 - For UIView
   1. SainiCircle
