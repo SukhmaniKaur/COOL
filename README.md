@@ -1,6 +1,6 @@
 # SainiUtils
 
-####description of this package.
+### description of this package.
 
 This is a tresure of methods which is used by a developer very frequently. All the methods are **COOL** and **AMAZING** just like a coder.
 List of the helping methods are: - 
